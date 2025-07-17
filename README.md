@@ -10,10 +10,6 @@ The goal of the study was to compare the performance and behavior of the A* algo
 
 To demonstrate the concepts that the study covered, I built a visualizer using pygame and demoed each of the algorithms live as part of the presentation.  The code for those demos is included in this repo.
 
-----
-
-![Demo screenshot](astar.PNG "Demo screenshot")
-
 ## Project Structure
 
 - `/demo` - Main implementation comparing A* and Dijkstra's algorithms
@@ -23,3 +19,7 @@ To demonstrate the concepts that the study covered, I built a visualizer using p
 ## Presentation
 
 For a more detailed explanation of the algorithms and my analysis of the results, check out the [presentation slides](./Pathfinding%20on%20a%20Randomized%20Two-Dimensional%20Grid.pdf).
+
+----
+
+![Demo screenshot](astar.PNG "Demo screenshot")
